@@ -1,5 +1,3 @@
-# Sorting-Algorithms
-
 # Sorting Algorithms in C/C++
 
 This repository contains implementations of various sorting algorithms in C/C++, including popular algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.
